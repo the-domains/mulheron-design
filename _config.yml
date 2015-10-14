@@ -1,6 +1,6 @@
 name: Mulheron Design
 favicon: null
-layout_spectrum: 0.23828
+layout_spectrum: 0.25179
 cta:
   domain: null
   bucket: null
@@ -19,7 +19,4 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
-purpose:
-  - name: awareness
-    item: null
-    url: null
+purpose: []
