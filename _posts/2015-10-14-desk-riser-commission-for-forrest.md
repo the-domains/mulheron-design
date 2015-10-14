@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-14T15:24:41.638Z'
-dateModified: '2015-10-14T15:24:03.581Z'
+datePublished: '2015-10-14T15:32:34.505Z'
+dateModified: '2015-10-14T15:31:58.124Z'
 title: Desk Riser commission for Forrest
 sourcePath: _posts/2015-10-14-desk-riser-commission-for-forrest.md
 published: true
@@ -24,8 +24,6 @@ _type: Article
 # Desk Riser commission for Forrest
 
 woodwork by Lindsey Liden
-
-null
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae0306f0-3605-4def-baec-83b656eb1a7b.jpg)
 
 start of progress; main structure
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae0306f0-3605-4def-baec-83b656eb1a7b.jpg)
