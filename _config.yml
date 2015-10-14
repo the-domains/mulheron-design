@@ -1,4 +1,4 @@
-name: null
+name: Mulheron Design
 favicon: null
 layout_spectrum: 0.8
 cta:
@@ -19,4 +19,7 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
-purpose: []
+purpose:
+  - name: awareness
+    item: null
+    url: null
