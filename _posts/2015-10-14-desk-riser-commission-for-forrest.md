@@ -6,11 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-14T20:12:58.618Z'
-dateModified: '2015-10-14T20:12:32.843Z'
+datePublished: '2016-02-24T16:50:00.482Z'
+dateModified: '2016-02-24T16:49:03.230Z'
 title: Desk Riser commission for Forrest
 sourcePath: _posts/2015-10-14-desk-riser-commission-for-forrest.md
 published: true
+author: []
 authors: []
 publisher:
   name: null
@@ -25,10 +26,11 @@ _type: Article
 
 woodwork by Lindsey Liden
 
-# preview
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae0306f0-3605-4def-baec-83b656eb1a7b.jpg)
+## preview
 
-start of progress; main structure
+fff
+
+## before
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f8fc618-91e7-40e7-95ad-2a0929b8b22f.jpg)
 
 the workspace "before" image
@@ -50,6 +52,20 @@ working so it wouldn't cup or bow.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8f86ee0-9c88-4ec6-98f2-8f0b588a92b0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b8b784a-7864-431a-8057-013c6920ec73.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb8b095e-ba64-4107-8413-e4d4dc4b0a71.jpg)
+
+Drying it flat
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca5dc8f8-5971-41da-9473-3e98fd690d20.jpg)
 
+Sanding
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae0306f0-3605-4def-baec-83b656eb1a7b.jpg)
+
+start of progress; main structure
+
 ...
+
+## after
+
+detail, left side
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbef10bd-d422-4722-948c-de9e98e4a950.jpg)
+
+detail, right side
