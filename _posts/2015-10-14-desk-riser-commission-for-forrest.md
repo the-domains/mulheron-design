@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T16:50:00.482Z'
-dateModified: '2016-02-24T16:49:03.230Z'
+datePublished: '2016-02-24T16:53:49.345Z'
+dateModified: '2016-02-24T16:53:22.691Z'
 title: Desk Riser commission for Forrest
 sourcePath: _posts/2015-10-14-desk-riser-commission-for-forrest.md
 published: true
@@ -64,6 +64,7 @@ start of progress; main structure
 ...
 
 ## after
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dac3c22b-30d1-4463-aa40-5f3d90181b33.jpg)
 
 detail, left side
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbef10bd-d422-4722-948c-de9e98e4a950.jpg)
