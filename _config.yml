@@ -1,6 +1,7 @@
 name: Mulheron Design
 favicon: null
 layout_spectrum: 0.25179
+style: the-composer
 cta:
   domain: null
   bucket: null
