@@ -1,23 +1,18 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-02-24T16:58:34.021Z'
-dateModified: '2016-02-24T16:53:57.833Z'
-title: Desk Riser commission for Forrest
+datePublished: '2016-07-02T21:27:06.385Z'
 sourcePath: _posts/2015-10-14-desk-riser-commission-for-forrest.md
-published: true
-author: []
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-07-02T21:22:38.911Z'
+title: Desk Riser commission for Forrest
+publisher: null
+description: woodwork by Lindsey Liden
+inLanguage: null
+inNav: false
+starred: false
 url: desk-riser-commission-for-forrest/index.html
 _type: Article
 
@@ -26,47 +21,34 @@ _type: Article
 
 woodwork by Lindsey Liden
 
-## preview
+## Process
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5aaab3c03fe55e61e8a1dd210ae23bd59fac8bbe.jpg)
 
-fff
+It's a walnut tree that fell at a piece of property that has been in my family for 125 years or so, since 1883\. When it fell my Uncle had it milled up and dry stacked. This was about 10 years ago. Since it's air-dried not kiln-dried it has way more vibrant colors.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/636faefaf6cb50dce83227f68be798daa6588fd2.jpg)
 
-## before
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f8fc618-91e7-40e7-95ad-2a0929b8b22f.jpg)
-
-the workspace "before" image
-
-# Process
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f8b20e9-afc7-422e-a370-a0d7cd9dd7c6.jpg)
-
-It's a walnut tree that fell at a piece of property 
-that has been in my family for 125 years or so, since 1883\.  When it 
-fell my Uncle had it milled up and dry stacked. This was about 10 years ago. 
- Since it's air-dried not kiln-dried it has way more vibrant colors. 
-
-When I brought it in it was testing at 17% moisture so I had to give it
-a couple days till the moisture dropped to 12% before I could start 
-working so it wouldn't cup or bow.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9424f4c-96e1-43a3-b649-403b38df1e24.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbb0c8ed-e55b-48bc-a0c5-4a8266e7292f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17fafa58-936e-4081-adc6-b82d08367525.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8f86ee0-9c88-4ec6-98f2-8f0b588a92b0.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b8b784a-7864-431a-8057-013c6920ec73.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb8b095e-ba64-4107-8413-e4d4dc4b0a71.jpg)
+When I brought it in it was testing at 17% moisture so I had to give it a couple days till the moisture dropped to 12% before I could start working so it wouldn't cup or bow.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3245826db67f117e22d8f329d19efa7639348901.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/81a21d63e8acfa23bf07a9d3fc750b6affc95783.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8d49e1d176974db84c441b3fbee590d1acd59ad.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b41d1306e33443dc748c65d1d6851e1962dce8d4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0e35cddbcf0e982fbd4c6b4dbdc7758fa5c6d99.jpg)
 
 Drying it flat
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca5dc8f8-5971-41da-9473-3e98fd690d20.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7417e232da08bdd19a9557ffd41b4e14c7c94e0f.jpg)
 
 Sanding
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae0306f0-3605-4def-baec-83b656eb1a7b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ec876df19114bed01951316c4d6e272041fd88e.jpg)
 
 start of progress; main structure
-
-...
-
-## after
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dac3c22b-30d1-4463-aa40-5f3d90181b33.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e27dee6b915d0aaba79b2b986daa842bc118ec0.jpg)
 
 detail, left side
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbef10bd-d422-4722-948c-de9e98e4a950.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/51be12e277f5de2062359f9a3f4303d4d733420d.jpg)
 
 detail, right side
+
+## before
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/032d804bda67ff33dc552d75c63669dcb075c655.jpg)
+
+the workspace "before" image
