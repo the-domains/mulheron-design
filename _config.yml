@@ -1,7 +1,18 @@
+layout_spectrum: 0.4786989772692323
+typography_spectrum: 0.9445528129581362
+color:
+  brandColors:
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  brandStrength: 0.36027454189024866
+  lightness: 0.7478417563252151
+  saturation: 0.5326527892611921
+  rhythmicContrast: 0.678797532338649
 name: Mulheron Design
 favicon: null
-layout_spectrum: 0.25179
-style: the-composer
 cta:
   domain: null
   bucket: null
@@ -14,10 +25,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
 purpose: []
